@@ -1,0 +1,7 @@
+[Devops]
+slave1 ansible_host=172.31.39.93
+slave2 ansible_host=172.31.41.186
+
+[operation]
+slave3 ansible_host=172.31.39.232
+slave4 ansible_host=172.31.39.81
